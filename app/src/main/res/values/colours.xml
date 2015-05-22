@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="course_name_colour">#333333</color>
+    <color name="course_num_runners_colour">#1A1A1A</color>
+</resources>
